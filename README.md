@@ -17,8 +17,7 @@ An automated system leveraging an 8051 microcontroller to monitor and control ro
 - **Others:** LCD display, op-amp IC741, resistors, jumper wires
 
 ## Detailed component list
-![image](https://github.com/user-attachments/assets/22ac0ab7-dd71-4531-a191-73b15a578cea)
-
+![{347E1822-82A4-48FE-838A-098D85D5B6BA}](https://github.com/user-attachments/assets/7cefdefa-a54b-42e7-8d04-a43ac5735819)
 
 ## Firmware
 The firmware includes logic to:

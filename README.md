@@ -28,8 +28,6 @@ The firmware includes logic to:
 ## Circuit Diagram
 ![Screenshot 2024-11-27 214731](https://github.com/user-attachments/assets/5bf0ad3c-7e45-4eff-81dc-69a6a76c1f27)
 
-**Programed in Proteus**
-
 ## How to Use
 1. Assemble the circuit as per the diagram.
 2. Flash the firmware onto the AT89C52 microcontroller using a compatible programmer.

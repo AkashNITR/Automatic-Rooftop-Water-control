@@ -16,6 +16,10 @@ An automated system leveraging an 8051 microcontroller to monitor and control ro
 - **Power Supply:** 9V DC external source
 - **Others:** LCD display, op-amp IC741, resistors, jumper wires
 
+## Detailed component list
+![image](https://github.com/user-attachments/assets/22ac0ab7-dd71-4531-a191-73b15a578cea)
+
+
 ## Firmware
 The firmware includes logic to:
 1. Read water levels from sensors.
@@ -25,6 +29,7 @@ The firmware includes logic to:
 ## Circuit Diagram
 ![Screenshot 2024-11-27 214731](https://github.com/user-attachments/assets/5bf0ad3c-7e45-4eff-81dc-69a6a76c1f27)
 
+**Programed in Proteus**
 
 ## How to Use
 1. Assemble the circuit as per the diagram.
